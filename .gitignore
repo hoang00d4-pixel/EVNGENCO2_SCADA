@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+~$*.xlsx
+~$*.docx
+.DS_Store
+Thumbs.db
